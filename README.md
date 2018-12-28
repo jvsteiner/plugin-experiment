@@ -2,7 +2,7 @@
 
 ```bash
 $ go get github.com/jvsteiner/plugin-experiment && cd $GOPATH/src/github.com/jvsteiner/plugin-experiment
-$ ./demo.sh`
+$ ./demo.sh
 ```
 
 have a look!
